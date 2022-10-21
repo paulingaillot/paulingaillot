@@ -10,10 +10,10 @@ public class Paulin extends Person {
     private String lastName = "GAILLOT";
     private String firstName = "Paulin";
     private int age = 21;
-    private String[] hobbies = ["Jeux Vidéos", "Vélo", "Netflix", "Developper"]
+    private String[] hobbies = {"Jeux Vidéos", "Vélo", "Netflix", "Developper"};
     
     private boolean isStudent = true;
-    private String[] education = {"ISEN, Nantes, France", "UQAC, Chicoutimi, Québec"}
+    private String[] education = {"ISEN, Nantes, France", "UQAC, Chicoutimi, Québec"};
 
     public void getLocation() {
         String pos = "Chicoutimi, Québec";
