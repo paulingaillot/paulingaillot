@@ -29,12 +29,14 @@ public class Paulin extend Person {
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B) [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://java.com) [![PhP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.com) [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://python.com) [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.com)
 
 <hr>
-##### 🛠 Outils :
+
+##### 🛠 Outils
 
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/) [![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/) [![jetbrains](https://shields.io/static/v1?label=&message=JetBrains&color=green&style=for-the-badge&logo=JetBrains)](https://www.jetbrains.com/)
 
 <hr>
-##### 🛠 Système d'exploitations :
+
+##### 🛠 Système d'exploitations
 
 [![JavaScript](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://debian.com) [![JavaScript](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com) [![JavaScript](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
 
@@ -47,7 +49,8 @@ public class Paulin extend Person {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulingaillot&theme=dracula&layout=compact&langs_count=10&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
-##### 🛠 Repos :
+
+##### 🛠 Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulingaillot&repo=Projet-Graph)](https://github.com/paulingaillot/Projet-Graph)
 
