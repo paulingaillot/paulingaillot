@@ -46,7 +46,7 @@ public class Paulin extends Person {
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulingaillot&theme=dracula&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulingaillot&theme=dracula&layout=compact&langs_count=10&hide=hack)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulingaillot&theme=dracula&layout=compact&langs_count=10&hide=hack+cmake+makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
 
