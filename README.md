@@ -52,8 +52,8 @@ public class Paulin extends Person {
 
 #### ✔️ Repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulingaillot&repo=Projet-Graph)](https://github.com/paulingaillot/Projet-Graph)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulingaillot&repo=Projet-Graph&theme=dracula)](https://github.com/paulingaillot/Projet-Graph)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulingaillot&repo=Projet_AdminLinux)](https://github.com/paulingaillot/Projet_AdminLinux)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulingaillot&repo=Projet_AdminLinux&theme=dracula)](https://github.com/paulingaillot/Projet_AdminLinux)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulingaillot&repo=AspiRobot-Java)](https://github.com/paulingaillot/AspiRobot-Java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulingaillot&repo=AspiRobot-Java&theme=dracula)](https://github.com/paulingaillot/AspiRobot-Java)
