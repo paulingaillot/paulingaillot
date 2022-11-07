@@ -1,4 +1,3 @@
-![](https://hit.yhype.me/github/profile?user_id=29570006)
 ## Paulin Gaillot
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://paulingaillot@gmail.com) [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulin-gaillot-66b197198/) [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009098213623) [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paulingaillot)
@@ -58,3 +57,5 @@ public class Paulin extends Person {
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulingaillot&repo=Projet_AdminLinux&theme=dracula)](https://github.com/paulingaillot/Projet_AdminLinux)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=paulingaillot&repo=AspiRobot-Java&theme=dracula)](https://github.com/paulingaillot/AspiRobot-Java)
+
+![](https://hit.yhype.me/github/profile?user_id=29570006)
